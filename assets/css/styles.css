@@ -8,8 +8,16 @@ body{
 }
 #colorNombre{
     font-style: italic;
-    color: #e2af41;
+    color: #f6efe2;
     margin-left: 42%;
+}
+
+.tex{
+    text-align: right;
+    
+   
+   
+    width: 100%;
 }
 
 
@@ -22,7 +30,7 @@ body{
 .list-group{
     --bs-list-group-bg:transparent !important;
     --bs-list-group-border-color: transparent !important;
-    --bs-list-group-color: #4665a9 !important;
+    --bs-list-group-color: #edeff4 !important;
 }
 
 i.fa-brands.fa-facebook:hover{
@@ -68,15 +76,15 @@ section.about{
 section.edu{
     
     
-    background-image:  url(/assets/img/Mirage.jpg);
+   
     background-size: 300%;
     background-repeat: no-repeat;
     
 }
 section.pro{
  
-    background-image: url(/assets/img/Steel\ Gray.jpg);
-    background-size: 300%;
+    
+    background-size: 50%;
     background-repeat: no-repeat;
    
     
@@ -100,8 +108,8 @@ section.skills{
    padding-top: 5% ;
 }
 header.banner{
-    background-image: url(/assets/img/846628.jpg);
-    background-size: 300%;
+    background-image: url(/assets/img/ba1.jpg);
+    background-size: 100%;
     background-repeat: no-repeat;
     padding-bottom: 10%;
     padding-top: 10%;
